@@ -16,7 +16,6 @@ body {
     background-color: rgb(255, 254, 254);
     border-radius: 15px;
     padding: 25px 10px;
-    /* box-shadow: 0 0 15px rgb(80, 79, 79); */
 }
 
 form {
@@ -56,8 +55,3 @@ button:hover {
     background-color: tomato;
 }
 
-p {
-    color: red;
-    text-align: center;
-    display: none;
-}
